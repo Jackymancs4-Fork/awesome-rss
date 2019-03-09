@@ -4,7 +4,7 @@
     "description": "Name of the extension."
   },
   "extensionDescription": {
-    "message": "Inserisce un pulsante di sottoscrizione RSS / Atom indietro nella barra degli URL",
+    "message": "Inserisce un pulsante di sottoscrizione RSS/Atom nella barra degli URL",
     "description": "Description of the extension displayed in the add-ons manager."
   },
   "pageActionTooltip": {
@@ -12,131 +12,131 @@
     "description": "Tooltip displayed on moused hover over the page action. Should be the same as is Firefox https://transvision.mozfr.org/string/?entity=browser/chrome/browser/customizableui/customizableWidgets.properties:feed-button.tooltiptext2&repo=central"
   },
   "extensionNA": {
-    "message": "non disponibile",
+    "message": "Non disponibile",
     "description": "Message to show when page is secure or there are no feeds"
   },
   "optionsPageTitle": {
-    "message": "Awesome RSS Options",
+    "message": "Opzioni di Awesome RSS ",
     "description": "Title for options / preferences page"
   },
   "themeLegend": {
-    "message": "Theme Options",
+    "message": "Temi",
     "description": "Text for general theming section `<legend>`"
   },
   "title@selectIcon": {
-    "message": "Select icon",
+    "message": "Seleziona icona",
     "description": "Title attr for icon picked"
   },
   "option_lightIcon": {
-    "message": "Light theme icon",
+    "message": "Icona per tema chiaro",
     "description": "Text to display for light theme icon  `<option>`"
   },
   "option_darkIcon": {
-    "message": "Dark theme icon",
+    "message": "Icona per tema scuro",
     "description": "Text to display for dark theme icon `<option>`"
   },
   "option_orangeIcon": {
-    "message": "Orange theme icon",
+    "message": "Icona arancione",
     "description": "Text to display for orange theme icon `<option>`"
   },
   "option_greenIcon": {
-    "message": "Green theme icon",
+    "message": "Icona verde",
     "description": "Text to display for green theme icon `<option>`"
   },
   "subscriptionLegend": {
-    "message": "Subscribe Using",
+    "message": "Iscriviti usando",
     "description": "Text to display for browser action options legend"
   },
   "title@rssSubscribe": {
-    "message": "Subscribe using RSS (default)",
+    "message": "Iscriviti usando RSS (predefinito)",
     "description": "Title attribute input to select RSS as subscription option"
   },
   "title@feedlySubscribe": {
-    "message": "Subscribe using Feedly",
+    "message": "Iscriviti usando Feedly",
     "description": "Title attribute for input to select Feedly as subscription option"
   },
   "title@inoreaderSubscribe": {
-    "message": "Subscribe using Inoreader",
+    "message": "Iscriviti usando Inoreader",
     "description": "Title attribute for input to select Inoreader as subscription option"
   },
   "popupOptionsLegend": {
-    "message": "Popup Options",
+    "message": "Opzioni del popup ",
     "description": "Text for popup options section `<legend>`"
   },
   "title@openUsingLabel": {
-    "message": "Open feeds using...",
+    "message": "Apri feed usando...",
     "description": "Title attribute for input to select how feeds are opened"
   },
   "option_feedOpenCurrentTab": {
-    "message": "Current tab",
+    "message": "Scheda attuale",
     "description": "Text to display for current tab `<option>`"
   },
   "option_feedOpenNewTab": {
-    "message": "New Tab",
+    "message": "Nuova Scheda",
     "description": "Text to display for new tab `<option>`"
   },
   "option_feedOpenAdjacentTab": {
-    "message": "Adjacent Tab",
+    "message": "Scheda adiacente",
     "description": "Text to display for new tab `<option>`"
   },
   "option_feedOpenNewWindow": {
-    "message": "New window",
+    "message": "Nuova finestra",
     "description": "Text to display for new window `<option>`"
   },
   "title@popupTemplateLabel": {
-    "message": "Template theme",
+    "message": "Template del tema",
     "description": "Text to display for popup template selection `<label>`"
   },
   "option_regularTemplate": {
-    "message": "Regular (default)",
+    "message": "Normale (predefinito)",
     "description": "Text to display for regular template `<option>`"
   },
   "option_boldTemplate": {
-    "message": "Bold",
+    "message": "Grassetto",
     "description": "Text to display for bold template `<option>`"
   },
   "option_italicTemplate": {
-    "message": "Italic",
+    "message": "Corsivo",
     "description": "Text to display for italic template `<option>`"
   },
   "option_underlineTemplate": {
-    "message": "Underline",
+    "message": "Sottolineato",
     "description": "Text to display for underline template `<option>`"
   },
   "textOptionsLegend": {
-    "message": "Text options",
+    "message": "Opzioni del testo",
     "description": "Text for text options section `<legend>`"
   },
   "title@textColorLabel": {
-    "message": "Select text color",
+    "message": "Seleziona colore testo",
     "description": "Text to display for color picker `<label>`"
   },
   "title@fontFamilyLabel": {
-    "message": "Select font-family",
+    "message": "Seleziona famiglia font",
     "description": "Text to display for font-family selection `<label>`"
   },
   "title@fontSizeLabel": {
-    "message": "Select font-size",
+    "message": "Seleziona dimensioni font",
     "description": "Text to display for font-size selection `<label>`"
   },
   "title@marginLabel": {
-    "message": "Margins",
+    "message": "Margine",
     "description": "Text to display for margins `<label>`"
   },
   "title@paddingLabel": {
-    "message": "Padding",
+    "message": "Margine interno",
     "description": "Text to display for padding `<label>`"
   },
   "popupBackgroundLegend": {
-    "message": "Popup Background",
+    "message": "Sfondo popup",
     "description": "Text to display for popup background section `<legend>`"
   },
   "title@popupBackgroundColorLabel": {
-    "message": "Select background-color",
+    "message": "Seleziona colore sfondo",
     "description": "Text to display for popup background-color `<label>`"
   },
   "title@popupBackgroundImageLabel": {
-    "message": "Enter background-image URL",
+    "message": "Inserisci URL immagine di sfondo",
     "description": "Text to display for popup background-image `<label>`"
   },
   "placeholder@backgroundImageURL": {
@@ -144,7 +144,7 @@
     "description": "Placeholder text for background-image URL `<input>`"
   },
   "title@resetOptionsButton": {
-    "message": "Reset all preferences",
+    "message": "Resetta tutte le preferenze",
     "description": "Text to display for title on reset `<button>`"
   }
 }
